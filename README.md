@@ -1,4 +1,4 @@
-# fireFly-assignment
+# article fetcher
 
 In this assignment, I made a system to fetch articles from a list of essays and count the top 10 words from all the
 essays combined.
